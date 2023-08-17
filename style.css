@@ -113,3 +113,11 @@ body {
 .docWeek {
 	margin-bottom: 100px;
 }
+
+
+#finalproj {
+	font-size: 30px;
+	width: 65%;
+	text-align: center;
+	margin: auto;
+}
